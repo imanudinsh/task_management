@@ -13,8 +13,6 @@ The app utilizes the BLoC (Business Logic Component) architecture for state mana
 - **Sort, filter and Search:** Sort tasks by due date or filter status, and search for specific tasks using keywords.
 - **Error Handling:** The app includes error handling mechanisms to gracefully handle and display errors to users.
 
-## Getting Started
-
 ## Technical Specifications
 
 This project was developed using the following tools and technologies:
@@ -25,6 +23,9 @@ This project was developed using the following tools and technologies:
 - **Android SDK:** Android 13 (API level 33)
 - **Gradle:** Gradle 8.0
 - **Java:** Java 11
+
+
+## Getting Started
 
 ### Prerequisites
 
